@@ -1,0 +1,12 @@
+---
+name: istheinternetonfire
+description: Provides integration with security feed IsTheInternetOnFire.com
+keywords:
+  - internet
+  - security
+  - notifications
+  - infosec
+  - panic as a service
+version : 0.1
+author : st2-dev
+email : info@stackstorm.com
